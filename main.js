@@ -1,4 +1,5 @@
 // haha hoho remote-modify local-mod
+// haha hoho remote-modify wow
 // Modules to control application life and create native browser window
 const {app, BrowserWindow} = require('electron')
 
